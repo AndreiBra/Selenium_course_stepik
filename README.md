@@ -6,8 +6,7 @@
 
 ---
 
-## Сертификат по курсу "Автоматизация тестирования с помощью Selenium и
-Python" смотреть [здесь](https://github.com/AndreiBra/Selenium_course_stepik/blob/main/stepik-certificate-575-6f7ac44.pdf)
+## Сертификат по курсу "Автоматизация тестирования с помощью Selenium и Python" смотреть [здесь](https://github.com/AndreiBra/Selenium_course_stepik/blob/main/stepik-certificate-575-6f7ac44.pdf)
 
 ---
 
